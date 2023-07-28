@@ -1,1 +1,1 @@
-web: java -jar library-0.0.1-SNAPSHOT.jar
+web: java -jar target/library-0.0.1-SNAPSHOT.jar
